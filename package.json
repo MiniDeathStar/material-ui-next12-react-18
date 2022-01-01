@@ -14,6 +14,7 @@
     "next": "12.0.7",
     "react": "beta",
     "react-dom": "beta",
+    "react-is": "beta",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {

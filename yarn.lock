@@ -3195,6 +3195,7 @@ __metadata:
     prettier: ^2.5.1
     react: beta
     react-dom: beta
+    react-is: beta
     styled-components: ^5.3.3
   languageName: unknown
   linkType: soft
@@ -4060,6 +4061,13 @@ __metadata:
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
   checksum: f7a19ac3496de32ca9ae12aa030f00f14a3d45374f1ceca0af707c831b2a6098ef0d6bdae51bd437b0a306d7f01d4677fcc8de7c0d331eb47ad0f46130e53c5f
+  languageName: node
+  linkType: hard
+
+"react-is@npm:beta":
+  version: 18.0.0-beta-24dd07bd2-20211208
+  resolution: "react-is@npm:18.0.0-beta-24dd07bd2-20211208"
+  checksum: 4ec8deda8e8e702ee178d30a9eda2d2839700c721df336fb0055214037789008050e02a38f5d169f3e40f253146450511dd80112cb5d0dfedc465f408a289dbc
   languageName: node
   linkType: hard
 
