@@ -1,0 +1,7 @@
+.vscode
+.yarn
+.next
+build
+node_modules
+.pnp*
+yarn.lock

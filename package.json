@@ -1,0 +1,28 @@
+{
+  "name": "material-ui-next12-react-18",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mui/material": "^5.2.6",
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest",
+    "@mui/styled-engine-sc": "^5.1.0",
+    "next": "12.0.7",
+    "react": "beta",
+    "react-dom": "beta",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "prettier": "^2.5.1"
+  },
+  "resolutions": {
+    "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
+  },
+  "packageManager": "yarn@3.1.1"
+}
